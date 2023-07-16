@@ -1,5 +1,6 @@
 # Cricket-Analysis
-Tool - Excel 
+Tool - Excel |
+
 Hello
 This project is done using Microsoft Excel Tool.
 In the world of cricket, cricket analysts use different approaches and strategies to help their team to perform well. This also includes analyzing the opponent team members too. In this project, I created a scatter plot of players who performed well against Bumrah in IPL from his first every ball to his most recent ball in IPL 2022.
